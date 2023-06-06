@@ -23,4 +23,8 @@ Para usar o site da <UniSports>, siga estas etapas:
 2-Logo em seguida Abra o navegador e entre no link "localhost/unisports"
 
 ## Agradecimento
+<<<<<<< HEAD
 Obrigado por utilizar o aplicativo <UniSports> caso tenha alguma duvida entrar em contato comigo atraves do email: c.ortega200935@uni9.edu.br
+=======
+Obrigado por utilizar o aplicativo <UniSports> caso tenha alguma duvida entrar em contato comigo atraves do email: c.ortega200935@uni9.edu.br
+>>>>>>> 6648e3a5324352892ff4b3ffc106e37a59b66443
