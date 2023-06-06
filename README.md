@@ -2,7 +2,7 @@
 
 ## :computador: Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente do `<Laragon / Spring Tools / GitHub>`
+* Você instalou os seguintes programas `<Laragon 6.0 / Spring Tools 3.9.1 / GitHub(Online) / Git 2.40.0 >`
 
 ## 🚀 Instalando
 Para instalar o <Unisports>, siga estas etapas:
